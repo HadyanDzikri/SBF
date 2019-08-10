@@ -309,7 +309,7 @@ def idteman():
 	else:
 		return menu()
 def menu():
-	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cSBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mSBF !k_Santrine Kyai Cianjur!k___\n\n !m* !bSANTRI BRUTE FORCE\n !m* !cSantriCyberAhli.Sunnah.Wal.Jamaah\n !m* !phttps://github.com/SantriCyber\n !m* Donate: paypal.me/santriCianjur\n !m* Aswaja//Muslimcyber//SAntricyber//azzkury\n!k.======================.\n|!h  AMBIL !mID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
+	cetak("\n           !h.-.-..\n          /+/++//\n         /+/++//\n  !k*   !k* !h/+/++//\n   \ /  |/__//\n !h{!mX!h}v{!mX!h}!0!b|!cSBF!b|==========.\n   !h(!m'!h)!0  !h/'|'\           !b\\\n       !h/  \  \          !b'\n       !h\_  \_ \_   !k___!mSBF !k_Santrine Kyai Cianjur!k___\n\n !m* !bSANTRI BRUTE FORCE\n !m* !cSantriCyberAhli.Sunnah.Wal.Jamaah\n !m* !phttps://github.com/hadyanDzikri\n !m* Donate: paypal.me/santriCianjur\n !m* Aswaja//Muslimcyber//SAntricyber//azzkury\n!k.======================.\n|!h  AMBIL !mID!h DARI.....  !k|\n'======================'\n!k#!p1 !hDAFTAR TEMAN\n!k#!p2 !hANGGOTA GROUP\n!k#!p3 !mKELUAR...")
 	i = inputM('[?] PILIH',[1,2,3])
 	if i == 2:
 		lanjutG()
